@@ -1,6 +1,6 @@
 # 30-day-ai-journey
 My 30-day journey learning AI, Machine Learning , Python and building projects.
-# Day 2 - Learning Python 🐍
+# Day 2 - Learning Python 
 
 Today I started learning the basics of Python.
 
@@ -39,3 +39,60 @@ Today I revised and practiced Python basics.
 **Student Result Card Generator**
 
 Created a Python program that takes student details and marks in five subjects, calculates the total and average, and displays the result card.
+# Day 4 – Conditional Statements in Python
+
+##  Topics Learned
+
+* `if` statement
+* `elif` statement
+* `else` statement
+* Nested conditions
+* Comparison operators
+* Logical operators
+* `and`
+* `or`
+* `not`
+
+##  Practice Programs
+
+### 1. Even/Odd Checker
+
+Checks whether a given number is even or odd.
+
+### 2. Grade Calculator
+
+Calculates the grade based on the marks entered.
+
+### 3. Login System
+
+Checks username and password using logical conditions.
+
+### 4. Number Guessing
+
+Compares the user's guess with a secret number and displays whether the guess is too high, too low, or correct.
+
+##  Mini Project – Student Grade Analyzer
+
+The Student Grade Analyzer accepts marks for five subjects and calculates:
+
+* Total marks
+* Average marks
+* Grade
+* Pass/Fail result
+
+It uses conditional statements and logical operators to determine the final result.
+
+##  Concepts Practiced
+
+* User input
+* Variables
+* Arithmetic operators
+* Comparison operators
+* Logical operators
+* Conditional statements
+* Nested decision-making
+
+##  Learning Goal
+
+To understand how Python makes decisions using `if`, `elif`, `else`, comparison operators, and logical operators.
+
