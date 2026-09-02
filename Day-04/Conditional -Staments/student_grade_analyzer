@@ -1,0 +1,36 @@
+python = int(input("Enter Python marks: "))
+c = int(input("Enter C marks: "))
+maths = int(input("Enter Maths marks: "))
+dbms = int(input("Enter DBMS marks: "))
+english = int(input("Enter English marks: "))
+
+total = python + c + maths + dbms + english
+average = total / 5
+
+if python < 40 or c < 40 or maths < 40 or dbms < 40 or english < 40:
+    result = "FAIL"
+    grade = "F"
+elif average >= 90:
+    grade = "A+"
+    result = "PASS"
+elif average >= 80:
+    grade = "A"
+    result = "PASS"
+elif average >= 70:
+    grade = "B"
+    result = "PASS"
+elif average >= 60:
+    grade = "C"
+    result = "PASS"
+elif average >= 50:
+    grade = "D"
+    result = "PASS"
+else:
+    grade = "F"
+    result = "FAIL"
+
+print("\n===== STUDENT GRADE ANALYZER =====")
+print("Total:", total)
+print("Average:", average)
+print("Grade:", grade)
+print("Result:", result)
