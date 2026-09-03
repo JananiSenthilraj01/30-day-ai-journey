@@ -1,10 +1,8 @@
-secret = 25
-
-guess = int(input("Guess the number: "))
-
-if guess == secret:
-    print("Correct!")
-elif guess > secret:
+num=int(input())
+if num==7:
+    print("Correct Guess")
+elif num >= 7:
     print("Too High")
 else:
     print("Too Low")
+
