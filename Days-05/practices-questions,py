@@ -1,0 +1,31 @@
+# Practice Questions
+
+# 1. Hello 5 times
+def hello():
+    for i in range(5):
+        print("Hello")
+
+hello()
+
+# 2. Your name 7 times
+def my_name():
+    for i in range(7):
+        print("Janani")
+
+my_name()
+
+# 3. Numbers 1 to 10
+def numbers():
+    i = 1
+    while i <= 10:
+        print(i)
+        i += 1
+
+numbers()
+
+# 4. Even numbers from 2 to 20
+def even_numbers():
+    for i in range(2, 21, 2):
+        print(i)
+
+even_numbers()
