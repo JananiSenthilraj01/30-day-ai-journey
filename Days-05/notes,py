@@ -1,0 +1,24 @@
+# Day 5 - Functions and Loops
+
+# Function syntax
+def add(a, b):
+    return a + b
+
+result = add(10, 20)
+print(result)
+
+# Function with for loop
+def print_name(name, times):
+    for i in range(times):
+        print(name)
+
+print_name("Janani", 3)
+
+# Function with while loop
+def print_numbers():
+    i = 1
+    while i <= 5:
+        print(i)
+        i += 1
+
+print_numbers()
