@@ -106,6 +106,68 @@ It uses conditional statements and logical operators to determine the final resu
 1. Print Hello 5 times
 2. Print name 7 times
 3. Print numbers 1 to 10
+
+
+
+
+
+
+# Day 6 - Simple Calculator Using Match Case
+
+## Project Name
+
+Simple Calculator in Python
+
+## Description
+
+This is a beginner-friendly Python calculator created as part of my **30 Days Python Learning Challenge**. The program takes two numbers from the user and performs different arithmetic operations based on the selected option.
+
+## Concepts Used
+
+* `input()` function
+* Integer data type
+* `match-case` statement
+* Arithmetic operators (`+`, `-`, `*`, `//`, `%`)
+* User choice menu
+
+## Operations Available
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Modulus
+
+## Sample Output
+
+Enter Number For A: 20
+Enter Number For B: 5
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Modulus
+
+Choose option 1 to 5: 3
+
+A * B = 100
+
+## What I Learned
+
+* How to take user input.
+* How to use the `match-case` statement in Python.
+* How arithmetic operators work.
+* How to build a simple menu-driven program.
+
+## Author
+
+**Janani Senthilraj**
+
+B.Tech Artificial Intelligence and Data Science (AIDS)
+
+30 Days Python Challenge
+
 4. Print even numbers from 2 to 20
 ##  Learning Goal
 
