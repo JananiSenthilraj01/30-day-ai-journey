@@ -106,7 +106,7 @@ It uses conditional statements and logical operators to determine the final resu
 1. Print Hello 5 times
 2. Print name 7 times
 3. Print numbers 1 to 10
-
+4. Print even numbers from 2 to 20
 
 
 
@@ -212,7 +212,7 @@ B.Tech – Artificial Intelligence and Data Science (AIDS)
 
 30 Days Python Challenge
 
-4. Print even numbers from 2 to 20
+
 ##  Learning Goal
 
 To understand how Python makes decisions using `if`, `elif`, `else`, comparison operators, and logical operators.
