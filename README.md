@@ -166,6 +166,50 @@ A * B = 100
 
 B.Tech Artificial Intelligence and Data Science (AIDS)
 
+
+# 🐍 Day 03 – Python Lists
+
+This repository contains my Python practice for **Lists**.
+
+I learned the basic list operations in Python and practiced how to add, remove, and modify elements in a list.
+
+## 📚 Topics Learned
+
+* Creating a list
+* Accessing list elements
+* `append()`
+* `insert()`
+* `remove()`
+* `pop()`
+* `reverse()`
+* `sort()`
+* `len()`
+
+## 📂 File
+
+* `list_operations.py` – Basic Python list operations with examples.
+
+## 🎯 Learning Outcome
+
+After this practice, I can:
+
+* Create a list.
+* Add elements using `append()` and `insert()`.
+* Remove elements using `remove()` and `pop()`.
+* Reverse and sort a list.
+* Find the length of a list.
+
+### 💻 Language
+
+Python 3
+
+### 👩‍💻 Author
+
+**Janani Senthilraj**
+
+B.Tech – Artificial Intelligence and Data Science (AIDS)
+
+
 30 Days Python Challenge
 
 4. Print even numbers from 2 to 20
