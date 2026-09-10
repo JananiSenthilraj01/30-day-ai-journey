@@ -1,0 +1,32 @@
+# Python List Operations
+
+fruits = ["Apple", "Banana", "Mango"]
+
+print("Original List:", fruits)
+
+# append()
+fruits.append("Orange")
+print("After append():", fruits)
+
+# insert()
+fruits.insert(1, "Grapes")
+print("After insert():", fruits)
+
+# remove()
+fruits.remove("Banana")
+print("After remove():", fruits)
+
+# pop()
+fruits.pop()
+print("After pop():", fruits)
+
+# reverse()
+fruits.reverse()
+print("After reverse():", fruits)
+
+# sort()
+fruits.sort()
+print("After sort():", fruits)
+
+# len()
+print("Length of List:", len(fruits))
